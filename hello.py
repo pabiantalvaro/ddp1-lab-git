@@ -1,1 +1,1 @@
-print("Halo, Git!")
+print("Halo, Git! Kami Bian, Iman, dan Rasya siap membantai TK DDP1")
